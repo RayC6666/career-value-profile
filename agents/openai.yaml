@@ -1,0 +1,4 @@
+interface:
+  display_name: "职业能力画像与简历应用"
+  short_description: "从长期经历提炼能力与职业价值，支持简历、岗位匹配、发展和面试"
+  default_prompt: "请使用 $career-value-profile，先与我确认目标和原则，再分阶段梳理经历、形成职业价值画像并用于我选择的应用。"
